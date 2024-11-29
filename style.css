@@ -1,0 +1,29 @@
+body {
+	background-color: #ACA5CC;
+	color: #242038;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h2 {
+	color: #242038;
+	font-family: "Lucida Console", "Courier New", monospace;
+	font: 30px;
+}
+
+.container {
+	background-color: #CAC4CE;
+	color: #242038;
+	padding: 15px;
+	font-family: "Lucida Console", "Courier New", monospace;
+	box-shadow: 18px 18px 7px 3px rgba(51,28,71,0.57);
+		-webkit-box-shadow: 18px 18px 7px 3px rgba(51,28,71,0.57);
+		-moz-box-shadow: 18px 18px 7px 3px rgba(51,28,71,0.57);
+	border: #242038 solid 5px;
+}
+
+placeholder {
+	background-color: #725AC1;
+}
+
+/*"color" is for text color*/
+/* "cssgenerator.org" makes shadow codes automatically */
